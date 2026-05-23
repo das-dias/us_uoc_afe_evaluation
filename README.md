@@ -321,7 +321,7 @@ If you use this repository or build upon this work, please cite the associated j
 @misc{us_afe_min_img_eval_workflow,
   title = {{Image-Quality-Constrained Miniaturization of High Temporal-Resolution Diagnostic Ultrasound Integrated Analog Frontends - Simulation Setups and Workflow}},
   author  = {Dias, Diogo},
-  note = {[Online]. Available: \url{https://github.com/das-dias/sota-us-afe}},
+  note = {[Online]. Available: \url{https://github.com/das-dias/us_uoc_afe_evaluation}},
   year    = {2026}
 }
 ```
